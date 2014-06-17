@@ -5,8 +5,8 @@ title: About me
 tags: [about]
 modified: 2014-06-16
 ---
-I’m a software developer from Kyiv, Ukraine.
+I’m a software developer from Kiev, Ukraine.
 Javascript hacker, Node.js geek, Front-end lover and hater.
 
-Here I try to express my thoughts, write down tips&tricks or just blur some paper.
-I’m just learning English so if my posts look strange for you… deal with it.
+Here I try to express my thoughts, write tips&tricks or just  to dirty paper.
+I'm learning English, so if my posts look terrible - just deal with this.
